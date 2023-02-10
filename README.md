@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=BB00F7&width=435&lines=WELCOME+TO+MY+PROFILE)]()
 
-### Hi! I'm José Adriano, but you can call me AJ! 👋
-### I'm a frontend developer!✨
+👋### Hi! I'm José Adriano, but you can call me AJ! 
+✨### I'm a frontend developer!
 ---
 <br>
 
