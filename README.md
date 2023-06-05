@@ -36,8 +36,7 @@
 
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://fenixking.github.io/portfolio/)
 [![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://fenixking.github.io/portfolio/)
-[![NextJS]([https://img.shields.io/badge/NextJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://fenixking.github.io/portfolio/)
-
+[![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://fenixking.github.io/portfolio/)
 ---
 
 <br>
